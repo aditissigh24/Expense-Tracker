@@ -7,10 +7,10 @@ An intuitive and user-friendly expense tracker application built with React. Thi
 - Filter the expenses by the year.
 - Local storage support for data persistence.
 ## Technologies Used
-React: Frontend library for building user interfaces.
-CSS/SCSS: Styling the application.
-JavaScript: For handling dynamic interactions.
-LocalStorage: To store data persistently in the browser.
+-React: Frontend library for building user interfaces.  
+-CSS/SCSS: Styling the application.  
+-JavaScript: For handling dynamic interactions.  
+-LocalStorage: To store data persistently in the browser.  
 ## Live Link
 https://expense-tracker-n8ayijzhg-aditissigh24-gmailcoms-projects.vercel.app/
 
